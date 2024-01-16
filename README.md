@@ -1,7 +1,4 @@
-Module 15 Challenge   -  leaflet-challenge
-
-
-Folder: Leaflet-Part-1
+Module 15 Challenge   -  leaflet-challenge -Leaflet-Part-1
 
 Part 1: Create the Earthquake Visualization
 
